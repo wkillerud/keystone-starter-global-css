@@ -1,0 +1,8 @@
+node_modules
+.keystone/admin
+keystone.db
+*.log
+.env
+public/static/jokul/*.css
+public/static/jokul/*.woff
+public/static/jokul/*.woff2
